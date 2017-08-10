@@ -1,0 +1,10 @@
+D:\Projects\BashAutoMarketPlugin\BashAutoMarketPlugin\BashAutoMarketPlugin\bin\Debug\netcoreapp1.1\BashAutoMarketPlugin.deps.json
+D:\Projects\BashAutoMarketPlugin\BashAutoMarketPlugin\BashAutoMarketPlugin\bin\Debug\netcoreapp1.1\BashAutoMarketPlugin.runtimeconfig.json
+D:\Projects\BashAutoMarketPlugin\BashAutoMarketPlugin\BashAutoMarketPlugin\bin\Debug\netcoreapp1.1\BashAutoMarketPlugin.runtimeconfig.dev.json
+D:\Projects\BashAutoMarketPlugin\BashAutoMarketPlugin\BashAutoMarketPlugin\bin\Debug\netcoreapp1.1\BashAutoMarketPlugin.dll
+D:\Projects\BashAutoMarketPlugin\BashAutoMarketPlugin\BashAutoMarketPlugin\bin\Debug\netcoreapp1.1\BashAutoMarketPlugin.pdb
+D:\Projects\BashAutoMarketPlugin\BashAutoMarketPlugin\BashAutoMarketPlugin\obj\Debug\netcoreapp1.1\BashAutoMarketPlugin.csprojResolveAssemblyReference.cache
+D:\Projects\BashAutoMarketPlugin\BashAutoMarketPlugin\BashAutoMarketPlugin\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+D:\Projects\BashAutoMarketPlugin\BashAutoMarketPlugin\BashAutoMarketPlugin\obj\Debug\netcoreapp1.1\BashAutoMarketPlugin.AssemblyInfo.cs
+D:\Projects\BashAutoMarketPlugin\BashAutoMarketPlugin\BashAutoMarketPlugin\obj\Debug\netcoreapp1.1\BashAutoMarketPlugin.dll
+D:\Projects\BashAutoMarketPlugin\BashAutoMarketPlugin\BashAutoMarketPlugin\obj\Debug\netcoreapp1.1\BashAutoMarketPlugin.pdb
