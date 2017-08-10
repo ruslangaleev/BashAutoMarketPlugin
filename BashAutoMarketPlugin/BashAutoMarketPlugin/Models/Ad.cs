@@ -7,6 +7,8 @@ namespace BashAutoMarketPlugin.Models
 {
     public class Ad
     {
+        public string Id { get; set; }
+
         public string Name { get; set; }
     }
 }
